@@ -1,5 +1,8 @@
 {
   "name": "smartphoneApp",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "136f1653",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
 }
